@@ -15,4 +15,13 @@
     <PackageReference Include="Aspire.Hosting.AppHost" Version="9.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectName.ApiService\ProjectName.ApiService.csproj" />
+    <ProjectReference Include="..\ProjectName.Core\ProjectName.Core.csproj" />
+    <ProjectReference Include="..\ProjectName.DataAccess\ProjectName.DataAccess.csproj" />
+    <ProjectReference Include="..\ProjectName.SharedConfig\ProjectName.SharedConfig.csproj" />
+    <ProjectReference Include="..\ProjectName.UserInterface\ProjectName.UserInterface.csproj" />
+    <ProjectReference Include="..\ProjectName.Utilities\ProjectName.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>
