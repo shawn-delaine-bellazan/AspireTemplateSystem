@@ -1,0 +1,21 @@
+{
+  "author": "Tooensure LLC",
+  "classifications": [ "Clean Architecture", "Aspire", "Custom Template System" ],
+  "identity": "CustomTemplateSystem",
+  "name": "Custom Template System",
+  "shortName": "custom-template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CustomTemplateSystem",
+  "symbols": {
+    "safeprojectname": {
+      "type": "parameter",
+      "replaces": "CustomTemplateSystem",
+      "defaultValue": "CustomTemplateSystem",
+      "description": "The name of the project"
+    }
+  },
+  "primaryOutputs": []
+}
