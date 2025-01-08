@@ -3,6 +3,11 @@
 
 Welcome to **AspireTemplateSystem**, a modular .NET Aspire 9.0 template system designed to facilitate the creation of applications following Clean Architecture principles. This repository contains a structured solution for setting up and managing different aspects of application development, from domain logic to user interface, data access, and more.
 
+## Badges
+
+![.NET](https://github.com/shawn-delaine-bellazan/AspireTemplateSystem/workflows/.NET%20Build%20and%20Test/badge.svg)
+[![License: MIT](https://img shields.io badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Table of Contents
 
 - [About](#about)
